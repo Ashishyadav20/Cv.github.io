@@ -1,0 +1,27 @@
+#full{
+    background: rgb(82, 77, 77);
+}
+.container{
+    
+    background: honeydew;
+    min-width: fit-content;
+}
+img{
+    height: 170px;
+}
+ .center-text{
+    text-align: center;
+ }
+td{
+    padding: .4rem;
+    font-size: .9rem;
+}
+th{
+    border: 2px solid honeydew;
+    padding: .05rem;
+}
+.name{
+    border-left: 1px solid black;
+}
+
+
